@@ -1,1 +1,1 @@
-# My-Hackerrank-Solutions
+#### Some of my Hackerrank solutions.
